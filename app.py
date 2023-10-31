@@ -111,7 +111,7 @@ def main():
         """
         <div class="main" id="about">
             <h3>About Me</h3>
-            <p>I am dedicated to honing my data analysis skills through web research, forum engagement, and self-directed learning, alongside hands-on experience gained from boot camps. Proficient in Production Planning Control (PPC), I excel in leveraging MS Excel for precise production forecasting and scheduling. As an industrious student at Pelita Bangsa University, pursuing Industrial Engineering, I blend theoretical knowledge with practical insights, fostering a promising career trajectory.</p>
+            <p style ="text-align: justify;>I am dedicated to honing my data analysis skills through web research, forum engagement, and self-directed learning, alongside hands-on experience gained from boot camps. Proficient in Production Planning Control (PPC), I excel in leveraging MS Excel for precise production forecasting and scheduling. As an industrious student at Pelita Bangsa University, pursuing Industrial Engineering, I blend theoretical knowledge with practical insights, fostering a promising career trajectory.</p>
         </div>
         """,
         unsafe_allow_html=True,
