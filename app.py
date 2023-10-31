@@ -15,8 +15,8 @@ def main():
             }
             .title {
                 color: #008080;
-                font-size: 40px;
-                transition: transform 0.5s;
+                font-size: 35px;
+                transition: transform 0.1s;
             }
             .title:hover {
                 transform: scale(1.1);
@@ -44,16 +44,16 @@ def main():
                 padding: 0 20px;
                 text-decoration: none;
                 color: #008080;
-                font-size: 20px;
+                font-size: 12px;
                 cursor: pointer;
-                transition: color 0.5s;
+                transition: color 0.1s;
             }
             .navigation a:hover {
                 color: #ff4500;
             }
             .project {
-                padding: 20px;
-                margin: 20px;
+                padding: 30px;
+                margin: 30px;
                 background-color: #ffffff;
                 border-radius: 10px;
                 transition: transform 0.5s;
@@ -84,7 +84,7 @@ def main():
     st.markdown(
         """
         <div class="main">
-            <h2 class="title">Welcome to My Portfolio!</h2>
+            <h2 class="title">Welcome to My Portofolio</h2>
             <div class="navigation">
                 <a href="#home">Home</a>
                 <a href="#about">About Me</a>
