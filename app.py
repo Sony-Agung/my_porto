@@ -101,7 +101,7 @@ def main():
         <div class="main" id="home">
             <h3></h3>
             <img class="image" src="https://lh3.googleusercontent.com/a/ACg8ocI9zdpXHBgAuxaYJ_87083DQ10epjpIh0896lJr0se-WCM=s288-c-no" alt="Soni Agung Wahyudiyanta">
-            <h3>Soni Agung Wahyudiyanta</h3>
+            <h3 style="font-size:12px;">Soni Agung Wahyudiyanta</h3>
         </div>
         """,
         unsafe_allow_html=True,
