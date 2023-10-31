@@ -121,8 +121,8 @@ def main():
         """
         <div class="main" id="contact">
             <h3>Contact</h3>
-            <p>WhatsApp: 0859-4377-1157</p>
-            <p>Email: sonyagung308@gmail.com</p>
+            <p>WhatsApp<a hreff="https://wa.link/kssl0s">  : 0859-4377-1157</a></p>
+            <p>Email<a hreff="sonyagung308@gmail.com">  : sonyagung308@gmail.com</a></p>
         </div>
         """,
         unsafe_allow_html=True,
