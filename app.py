@@ -52,8 +52,8 @@ def main():
                 color: #ff4500;
             }
             .project {
-                padding: 30px;
-                margin: 30px;
+                padding: 10px;
+                margin: 10px;
                 background-color: #ffffff;
                 border-radius: 10px;
                 transition: transform 0.5s;
