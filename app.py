@@ -15,7 +15,7 @@ def main():
             }
             .title {
                 color: #008080;
-                font-size: 35px;
+                font-size: 25px;
                 transition: transform 0.1s;
             }
             .title:hover {
