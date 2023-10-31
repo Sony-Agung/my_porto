@@ -52,10 +52,10 @@ def main():
                 color: #ff4500;
             }
             .project {
-                padding: 10px;
+                padding: 30px;
                 margin: 10px;
                 background-color: #ffffff;
-                border-radius: 10px;
+                border-radius: 5px;
                 transition: transform 0.5s;
             }
             .project:hover {
