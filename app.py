@@ -122,7 +122,7 @@ def main():
         <div class="main" id="contact">
             <h3>Contact</h3>
             <p>WhatsApp: <a href="https://wa.link/kssl0s">0859-4377-1157</a></p>
-            <p>Email: <a href="sonyagung308@gmail.com">sonyagung308@gmail.com</a></p>
+            <p>Email: <a href="mailto:sonyagung308@gmail.com">sonyagung308@gmail.com</a></p>
         </div>
         """,
         unsafe_allow_html=True,
