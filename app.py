@@ -218,7 +218,7 @@ def main():
             <div class="project">
                 <h4 style="font-size:18px;">Analisa Penjualan Sederhana | EDA |</h4>
                 <p></p>
-                <img class="image" src="" alt="Bank Customer Churn Prediction">
+                <img class="image" src="https://lh4.googleusercontent.com/3_jziqRe4bEt86rFULiogTCkHMHqlGAGhcb-tfkMv1VA7d0SiDznagdbX9sgcYnuV_m4jsmiY9nmHjyHBLFLDhukkxVCpePcNmR8TizcuVhdCOCP5XVtGNoGrkLdg-tF8I4FO8bN" alt="Bank Customer Churn Prediction">
                 <a class="button" href="https://github.com/Sony-Agung/projek/blob/main/Analisa%20Penjualan%20Sederhana.ipynb">View Project</a>
             </div>
         </div>
