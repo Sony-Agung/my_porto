@@ -212,6 +212,16 @@ def main():
                 <a class="button" href="https://github.com/Sony-Agung/projek/blob/main/Credit%20card%20Details%20Binary%20Classification%20Problem.ipynb">View Project</a>
             </div>
         </div>
+
+         <div class="main" id="">
+            <h3></h3>
+            <div class="project">
+                <h4 style="font-size:18px;">Analisa Penjualan Sederhana | EDA |</h4>
+                <p></p>
+                <img class="image" src="" alt="Bank Customer Churn Prediction">
+                <a class="button" href="https://github.com/Sony-Agung/projek/blob/main/Analisa%20Penjualan%20Sederhana.ipynb">View Project</a>
+            </div>
+        </div>
         """,
         unsafe_allow_html=True,
     )
