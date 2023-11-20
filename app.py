@@ -228,7 +228,7 @@ def main():
             <div class="project">
                 <h4 style="font-size:18px;">KORBAN TEWAS DALAM KONFLIK ISRAEL - PALESTINA (2000 - 2023) | EDA |</h4>
                 <p></p>
-                <img class="image" src="https://lh4.googleusercontent.com/3_jziqRe4bEt86rFULiogTCkHMHqlGAGhcb-tfkMv1VA7d0SiDznagdbX9sgcYnuV_m4jsmiY9nmHjyHBLFLDhukkxVCpePcNmR8TizcuVhdCOCP5XVtGNoGrkLdg-tF8I4FO8bN" alt="Bank Customer Churn Prediction">
+                <img class="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funair.ac.id%2Fkonflik-israel-dan-palestina-tidak-ada-resolusi%2F&psig=AOvVaw2sq-sEwUCEEKAxNLPTh_5A&ust=1700587586146000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjQ58iM04IDFQAAAAAdAAAAABAE" alt="Bank Customer Churn Prediction">
                 <a class="button" href="https://github.com/Sony-Agung/projek/blob/main/KORBAN_TEWAS_DALAM_KONFLIK_ISRAEL_PALESTINA_2000_2023.ipynb">View Project</a>
             </div>
         </div>
