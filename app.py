@@ -237,7 +237,7 @@ def main():
             <div class="project">
                 <h4 style="font-size:18px;">Daya Tampung Universitas 2018 - 2023 | EDA |</h4>
                 <p></p>
-                <img class="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ihwal.id%2Finfo-kampus%2F6827688277%2Fmau-masuk-universitas-indonesia-ini-7-jurusan-yang-punya-daya-tampung-besar-di-snbt-2023&psig=AOvVaw11S0LX-gwZSKYTWIf7CT0i&ust=1700757266278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCowtaE2IIDFQAAAAAdAAAAABAE" alt="Bank Customer Churn Prediction">
+                <img class="image" src="https://asset.kompas.com/crops/B5KfCQ1cgNR5KWEsz1l-iOb9zcI=/51x0:1133x721/750x500/data/photo/2022/09/27/6332aeb807329.jpg" alt="Bank Customer Churn Prediction">
                 <a class="button" href="https://github.com/Sony-Agung/projek/blob/main/Daya_Tampung_Universitas%20(2).ipynb">View Project</a>
             </div>
         </div>
